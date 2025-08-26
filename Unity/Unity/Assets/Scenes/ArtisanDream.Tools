@@ -1,0 +1,4 @@
+cd UnityProject
+git submodule add https://github.com/anthonyromrell/ArtisanDream.Tools Assets/ArtisanDream.Tools
+git add .gitmodules
+git commit -m "Add ArtisanDream.Tools submodule in Assets/"
